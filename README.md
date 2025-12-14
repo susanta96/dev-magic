@@ -45,16 +45,18 @@ Since Zed themes are currently installed via extensions:
 5.  Open the Theme Selector (`Cmd-K` then type `theme`).
 6.  Select **Dev Magic (Dark)** or **Dev Magic (Light)**.
 
-## 🎨 Palette Preview
+## Publishing to the Marketplace
 
-| Color | Hex | Usage |
-| :--- | :--- | :--- |
-| **Obsidian** | `#0b0e14` | Editor Background |
-| **Magic Violet** | `#a5b4fc` | Accents, Focus Borders |
-| **Sky Teal** | `#2dd4bf` | Properties, Functions |
-| **Soft Peach** | `#f472b6` | Strings |
-| **Slate** | `#94a3b8` | Comments, Muted Text |
+See the [Zed documentation](https://zed.dev/docs/extensions/developing-extensions#updating-an-extension) for more information.
 
-## 📄 License
+&nbsp;
 
-This project is licensed under the [MIT License](LICENSE).
+<hr/>
+
+<p align="center">
+	Copyright &copy; 2025 <a href="https://github.com/susanta96" target="_blank">Susanta Chakraborty</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/susanta96/dev-magic/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
