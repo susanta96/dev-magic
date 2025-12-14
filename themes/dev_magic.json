@@ -1,0 +1,32 @@
+{
+  "name": "Dev Magic",
+  "author": "Susanta Chakraborty",
+  "themes": [
+    {
+      "name": "Dev Magic",
+      "appearance": "dark",
+      "style": {
+        "border": "#303030",
+        "border.variant": "#303030",
+        "background": "#151515",
+        "editor.background": "#151515",
+        "editor.foreground": "#eaeaea",
+        "editor.line_number": "#555555",
+        "editor.active_line_number": "#ffffff",
+        "text": "#eaeaea",
+        "text.muted": "#888888",
+        "syntax": {
+          "keyword": "#ff79c6",
+          "function": "#8be9fd",
+          "string": "#f1fa8c",
+          "type": "#bd93f9",
+          "number": "#ff79c6",
+          "comment": "#6272a4",
+          "variable": "#f8f8f2",
+          "constant": "#bd93f9",
+          "property": "#8be9fd"
+        }
+      }
+    }
+  ]
+}
