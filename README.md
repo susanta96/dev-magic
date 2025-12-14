@@ -12,6 +12,16 @@
 
 **Dev Magic** is a premium, high-contrast theme collection designed for the Zed editor. It provides a soothing yet vibrant coding experience with deeply saturated dark modes and crisp, legible light modes.
 
+## 📸 Previews
+
+<details>
+<summary>Dev Magic (Dark)</summary>
+<img src="assets/dev-magic-dark.jpg"/>
+</details>
+<details>
+<summary>Dev Magic (Light)</summary>
+<img src="assets/dev-magic-light.jpg"/>
+</details>
 
 
 ## ✨ Features
