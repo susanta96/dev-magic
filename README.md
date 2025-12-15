@@ -16,11 +16,11 @@
 
 <details>
 <summary>Dev Magic (Dark)</summary>
-<img src="./assets/dev-magic-dark.jpg"/>
+<img src="assets/dev-magic-dark.JPG"/>
 </details>
 <details>
 <summary>Dev Magic (Light)</summary>
-<img src="./assets/dev-magic-light.jpg"/>
+<img src="assets/dev-magic-light.JPG"/>
 </details>
 
 
