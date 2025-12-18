@@ -1,7 +1,7 @@
 id = "dev-magic"
 name = "Dev Magic"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Susanta Chakraborty <chak.susanta96@gmail.com>"]
 description = "A darker magical theme for Zed Code Editor"
-repository = "https://github.com/yourusername/dev-magic"
+repository = "https://github.com/susanta96/dev-magic"
